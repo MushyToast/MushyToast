@@ -1,6 +1,6 @@
 <p align="center">
 
-# mysite - MushyToast's website
+#About Me
 </p>
 
 <br/>
@@ -26,7 +26,7 @@ I'm the CEO of Doohicky Code Inc.<br/>
 
 
 <p align="center">
-<img src="https://mushytoast.github.io/mysite/assets/imgs/goofycapybara.png"/>
+<img src="https://mushytoast.github.io/assets/imgs/goofycapybara.png"/>
 </p>
 
 
