@@ -1,56 +1,16 @@
-<p align="center">
+# Hi, I'm **mushytoast**  
+## I am a developer!  
+## I am fluent in 3 languages, **Lua, JavaScript, and Python!**   
 
-#About Me
-</p>
+I don't really use JavaScript that much, as I mainly steer away from web developing.   
+My main developing platform is Roblox Lua, where I make games!     
 
-<br/>
-<br/>
-<br/>
+## What I've done:  
+### A color picker website (WIP)   
+### A website featuring my friend's cats (old, first website I made)   
+### A python library for quality-of-life functions (WIP)   
+### Multiple high-quality roblox games   
 
-<p align="center">
-Hey there, I'm <b>MushyToast</b>. 
-</p>
-
-
-
-<p align="center">
-I'm the CEO of Doohicky Code Inc.<br/>
-<sub><i>don't ask about the name lol</i></sub>
-</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-<p align="center">
-<img src="https://mushytoast.github.io/assets/imgs/goofycapybara.png"/>
-</p>
-
-
-<p align="center">
-I am an <b>Intermediate Developer</b>.
-</p>
-
-### Contact Methods
-
-You can contact me by [email](mailto:ndg72609@gmail.com), or on [Discord](https://mushytoast.github.io/mysite/discord.html).
-
-### My Friends
-
-[DevDodger](https://github.com/devdodger/)
-[CJDough](https://github.com/CJDough/)
-
-### Stuff I've Done
-
-[Yeat Blog](https://mushytoast.github.io/mysite/DTMT.html)
-[Reid's Cats](https://mushytoast.github.io/mysite/catpage.html)
-[Python Number Guesser](https://github.com/MushyToast/Number-Guesser-Simple)
-[Python Hangman](https://github.com/MushyToast/pyhangman)
-[CyberBlue](https://mushytoast.github.io/mysite/cyberblue.html)
-
-Check out my website: https://mushytoast.github.io/mysite
-
-<sup>Copyright 2022 ©Doohicky Code Inc. All Rights Reserved</sup>
+## More about me:
+Hi, my real name is **Nolan**, and I live in California   
+I've been developing for nearly 3 years now, and it all started way back with Scratch   
