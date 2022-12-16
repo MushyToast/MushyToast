@@ -26,3 +26,5 @@ I have an everlasting love for computers.
 ### I enjoy riding my bike, and actually *touching grass!*   
 
 I don't really do things for people, other than Roblox commissions for Robux. If you would like me to do a commission for you, head to my [website](https://mushytoast.github.io/)    
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mushytoast&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
