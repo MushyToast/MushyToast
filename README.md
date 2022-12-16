@@ -10,7 +10,8 @@ My main developing platform is Roblox Lua, where I make games!
 ### A website featuring my friend's cats (old, first website I made)   
 ### A python library for quality-of-life functions (WIP)   
 ### Multiple high-quality roblox games      
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MushyToast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MushyToast)](https://github.com/anuraghazra/github-readme-stats)   
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MushyToast&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## More about me:   
 Hi, my real name is **Nolan**, and I live in California     
