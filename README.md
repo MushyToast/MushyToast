@@ -6,6 +6,8 @@
 I don't really use JavaScript that much, as I mainly steer away from web developing.   
 My main developing platform is Roblox Lua, where I make games!     
 
+### <a href="mushytoast.github.io">Website</a>
+
 ## What I've done:  
 ### A color picker website (WIP)   
 ### A website featuring my friend's cats (old, first website I made)   
