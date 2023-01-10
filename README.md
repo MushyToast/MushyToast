@@ -25,6 +25,9 @@ Hi, my real name is **Nolan**, and I live in California
 I've been developing for nearly 3 years now, and it all started way back with Scratch    
 I have an everlasting love for computers.   
 
+##Discord:    
+<img src="https://discord.c99.nl/widget/theme-3/609072028540207104.png">    
+
 ## Mi amigos
 ### [CJdough](https://github.com/CJdough) great web and python developer    
 ### [DevDodger](https://github.com/DevDodger/) my current best friend, who is way better at me then coding !!  
