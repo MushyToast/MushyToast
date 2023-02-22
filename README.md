@@ -1,4 +1,4 @@
-# Hi, I'm **mushytoast**  
+# 👋 Hi, I'm **mushytoast**  
 ## I am a developer!  
 ## I am fluent in 3 languages, **Lua, JavaScript, and Python!**   
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/mushytoast?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
