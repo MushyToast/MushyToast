@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Nolan** (a.k.a mushytoast)         
 ## I am a developer!  
-## I am fluent in 3 languages, **Lua, JavaScript, and Python!**   
+## I am fluent in about 3 languages, **Lua, JavaScript, and Python! (I know quite a bit about others but not enough for "fluency")**   
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/mushytoast?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 I don't really use JavaScript that much, as I mainly steer away from web developing.   
@@ -13,8 +13,9 @@ My main developing platform is Roblox Lua, where I make games!
 ### A website featuring my friend's cats (old, first website I made)   
 ### A python library for quality-of-life functions (WIP)   
 ### Multiple high-quality roblox games    
-### Clientada, the first Roblox client-side datastore system     
+### ~~Clientada, the first Roblox client-side datastore system~~ (Outdated, realized easily exploitable)
 ### World Updates, a joke website where the world gets updated, --> <a href="https://worlddevs.live">Website</a>
+### Multiple high quality UI components, --> <a href="https://mushytoast.tech/ui">Website</a>
 ### And more!     
 
 ## My Stats:    
