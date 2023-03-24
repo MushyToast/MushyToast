@@ -6,7 +6,7 @@
 I don't really use JavaScript that much, as I mainly steer away from web developing.   
 My main developing platform is Roblox Lua, where I make games!     
 
-### [Website](https://mushytoast.github.io)
+### [Website](https://www.mushytoast.tech)
 
 ## What I've done:  
 ### A color picker website (WIP)   
@@ -14,8 +14,8 @@ My main developing platform is Roblox Lua, where I make games!
 ### A python library for quality-of-life functions (WIP)   
 ### Multiple high-quality roblox games    
 ### ~~Clientada, the first Roblox client-side datastore system~~ (Outdated, realized easily exploitable)
-### World Updates, a joke website where the world gets updated, --> <a href="https://worlddevs.live">Website</a>
-### Multiple high quality UI components, --> <a href="https://mushytoast.tech/ui">Website</a>
+### World Updates, a joke website where the world gets updated, --> <a href="https://www.worlddevs.live">Website</a>
+### Multiple high quality UI components, --> <a href="https://www.mushytoast.tech/ui">Website</a>
 ### And more!     
 
 ## My Stats:    
